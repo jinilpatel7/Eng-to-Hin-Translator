@@ -17,4 +17,5 @@ Hugging Face Model Hosting: The trained model is hosted on Hugging Face Model Hu
 Hugging Face Spaces Deployment: The web application is deployed on Hugging Face Spaces.
 
 Link for my huggingface space deployment: https://huggingface.co/spaces/Jinilpatel7/Eng-to-Hin-Translation-App
+
 Link to use my model: https://huggingface.co/Jinilpatel7/Eng-to-Hin-Translation
